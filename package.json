@@ -1,0 +1,13 @@
+{
+  "name": "benchmarks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "author": "Scott Ashton <scottmortonashton@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.17.14",
+    "lodash": "^4.17.21",
+    "p-queue": "^7.4.1"
+  }
+}

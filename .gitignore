@@ -1,0 +1,8 @@
+node_modules
+tmp
+scraped
+tsconfig.tsbuildinfo
+createDiskMemoizedFn.db
+yarn-error.log
+scraping-server/current-port.txt
+secrets.json
